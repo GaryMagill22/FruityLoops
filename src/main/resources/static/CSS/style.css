@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+
+h1 {
+	color: blue;
+
+}
+
+.price {
+	color: #f55836;
+}
+
+.name {
+	color: purple;
+}
+
+.Table {
+	padding: 10px;
+	border: 1px solid black;
+}
